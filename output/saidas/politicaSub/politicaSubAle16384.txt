@@ -1,0 +1,22 @@
+PARAMETROS DE ENTRADA: 
+
+Politica de escrita: write-through 
+tamanhoLinha: 128 
+numeroDeLinhas: 128 
+associatividade: 4 
+Politica de Substituicao: Aleatoria 
+tempoAcerto: 5 
+tempoMP: 70 
+
+
+PARAMETROS DE SAIDA: 
+
+totalLeitura: 45056 
+totalEscrita: 6144 
+TotalEnderecos: 51200 
+totalEscritaMP: 6144 
+totalLeituraMP: 64 
+taxaAcertoLeitura: 99.8580 = 44992 
+taxaAcertoEscrita: 0.0000 = 0 
+taxaAcertoGlobal: 87.8750 = 44992 
+tempoMedioAcesso: 13.4875 

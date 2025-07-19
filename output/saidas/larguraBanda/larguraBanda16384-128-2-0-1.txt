@@ -1,0 +1,22 @@
+PARAMETROS DE ENTRADA: 
+
+Politica de escrita: write-back 
+tamanhoLinha: 128 
+numeroDeLinhas: 128 
+associatividade: 2 
+Politica de Substituicao: LRU (Least Recently Used) 
+tempoAcerto: 5 
+tempoMP: 70 
+
+
+PARAMETROS DE SAIDA: 
+
+totalLeitura: 45056 
+totalEscrita: 6144 
+TotalEnderecos: 51200 
+totalEscritaMP: 1026 
+totalLeituraMP: 3621 
+taxaAcertoLeitura: 94.2405 = 42461 
+taxaAcertoEscrita: 83.3008 = 5118 
+taxaAcertoGlobal: 92.9277 = 47579 
+tempoMedioAcesso: 9.9506 
